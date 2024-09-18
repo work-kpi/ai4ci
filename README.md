@@ -45,3 +45,10 @@
  ![](im/25-26.png)
 > У полі 26 поставте прочерк `-`, якщо немає підтверджуючого сертифікату.
 
+- Що ставити у полі **27. French level and certificate type (if any)**?
+![](im/f-certificate.png)
+> Поставте прочерк `-`, якщо немає такого сертифікату.
+
+- Що ставити у полі **Have you already applied using Campus France (Etudes en France platform) ?**?
+![](im/app-cf.png)
+> Оберіть  `No`
