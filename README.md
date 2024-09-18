@@ -41,5 +41,6 @@
 > Поставте прочерк `-`, якщо немає такого сертифікату.
 
 - Якщо немає сертифікату, що тоді ставити у полі **25. English certificate**?
-> У такому випадку просто оберіть перший пункт `I have a nationality from a country with English as one of the official languages`: ![](im/25.png)
+> У такому випадку просто оберіть перший пункт: `I have a nationality from a country with English as one of the official languages`
+ ![](im/25.png)
 
