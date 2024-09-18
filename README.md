@@ -10,11 +10,11 @@
 
   ## Подача заявки на участь
 
-  1. Спочатку зареєструйтесь на сайті (Register): [https://ai4ci.eu/](https://ai4ci.eu/)
+  1. Зареєструйтесь на сайті (Register): [https://ai4ci.eu/](https://ai4ci.eu/)
   ![](im/register.png)
-  1. Потім відкрийте посилання для подання заявки: [https://ai4ci.eu/ntuu-application-form/](https://ai4ci.eu/ntuu-application-form/)
-  ![](im/application.png)
+  1. Відкрийте посилання для подання заявки: [https://ai4ci.eu/ntuu-application-form/](https://ai4ci.eu/ntuu-application-form/)
   1. Заповніть форму, що відкриється 
+  ![](im/application.png)
 
   ## Питання-відповіді 
   - У полі **14. Full address (home country)** адресу писати латиницею?
