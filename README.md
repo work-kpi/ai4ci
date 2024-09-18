@@ -10,7 +10,7 @@
 
   ## Подача заявки на участь
 
-  1. Зареєструйтесь на сайті (Register): [https://ai4ci.eu/](https://ai4ci.eu/)
+  1. Зареєструйтесь на сайті: [https://ai4ci.eu/](https://ai4ci.eu/)
   ![](im/register.png)
   1. Відкрийте посилання для подання заявки: [https://ai4ci.eu/ntuu-application-form/](https://ai4ci.eu/ntuu-application-form/)
   1. Заповніть форму, що відкриється 
