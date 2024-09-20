@@ -15,6 +15,7 @@
   1. Відкрийте та зповніть форму для подання заявки: [https://ai4ci.eu/ntuu-application-form/](https://ai4ci.eu/ntuu-application-form/)
   ![](im/application.png)
   1. По завершенню процесу подачі application form надішліть повідомлення через Телеграм до викладача [Гордієнко Юрій Григорович](https://t.me/yoctoman) із зазначенням своїх 
+  
     - ПІБ укр-мовою + група,
     - `Name`, `Surname` на латині так, як Ви вносили у веб-форму.
   
